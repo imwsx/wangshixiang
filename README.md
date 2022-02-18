@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wsx-1998.
+- 👋 Hi, I’m @wangshixiang.
 - 👀 I’m interested in Python and test development.
 - 🌱 I’m currently learning Python grammar and GUI.
 - 📫 How to reach me： angel2604520513@gmail.com
