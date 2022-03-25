@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangshixiang.
-- 👀 I’m interested in Python and test development.
-- 🌱 I’m currently learning Python grammar and GUI.
+- 👀 I’m interested in JS and Python.
+- 🌱 I’m currently learning Python grammar and DOM.
 - 📫 How to reach me： angel2604520513@gmail.com
 
 <!---
